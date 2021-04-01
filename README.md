@@ -1,6 +1,9 @@
 # wmt_spce061a_study
 My Sunplus SPCE061A study  
 
+## 硬件烧录笔记  
+https://github.com/weimingtom/wmt_spce061a_study/blob/master/weibo_001.txt  
+
 ## 光盘资料  
 search baidupan, lingyangdanp  
 
