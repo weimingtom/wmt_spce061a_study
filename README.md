@@ -10,6 +10,8 @@ search baidupan, lingyangdanp
 search baidupan, SPCE061A刻录光盘.iso, IDE2.0.0  
 search baidupan, 凌阳科技.rar, IDE2.0.0  
 (IMP) search baidupan, 凌阳单片机光盘.zip, IDE184, IDE1.16.1  
+search baidupan, 凌阳测试程序.rar  
+search baidupan, 凌阳单片机课程CAI及源程序_科学出版社_我的光盘.iso  
 
 ## VMWare, Cannot open VMparport driver for LPTx  
 https://tech.lazyllama.com/2013/06/19/vmware-workstation-cannot-open-vmparport-driver-for-lptx/  
