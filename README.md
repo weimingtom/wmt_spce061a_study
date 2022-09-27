@@ -18,6 +18,7 @@ search 凌阳单片机原理及其毕业设计精选_凌阳单片机课程CAI及
 search IDE184  
 search IDE2.0.0  
 search IDE1.16.1  
+search 凌阳16位单片机经典实战_buaapress_北航, ly16bitdpj_ptgp.rar, IDE 2.0.0 and IDE 2.6.2D  
 
 ## VMWare, Cannot open VMparport driver for LPTx  
 https://tech.lazyllama.com/2013/06/19/vmware-workstation-cannot-open-vmparport-driver-for-lptx/  
@@ -29,3 +30,5 @@ https://www.asix.com.tw/cn/support/download
 ## search sunplus or unsp    
 * https://github.com/MooglyGuy/unsp  
 * https://sourceforge.net/projects/unspgcc/  
+
+## 凌阳16位单片机经典实战, see http://press.buaa.edu.cn  
