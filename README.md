@@ -23,15 +23,16 @@ search 凌阳16位单片机经典实战_buaapress_北航, ly16bitdpj_ptgp.rar, I
 ## VMWare, Cannot open VMparport driver for LPTx  
 https://tech.lazyllama.com/2013/06/19/vmware-workstation-cannot-open-vmparport-driver-for-lptx/  
 如果遇到VMware无法映射硬件并口（提示VMparport错误），需要卸载重新安装（不能选修复），这个问题就能解决  
-```
-The PCI Parallel Port card was installed after VMware Workstation. During the Workstation installation process, the installer looks to see whether the host has a parallel port, and if it does it installs a driver allowing VMs to access the port. If there’s no parallel port, the driver doesn’t get installed.
-
-The problem here is that if you add a parallel port afterwards, there’s no virtualisation driver for it, resulting in the error above.
-
-The solution is to uninstall and reinstall VMware Workstation after the hardware change. Reinstalling doesn’t affect any settings or VMs as long as you tell the uninstall process not to delete anything.
-
-This probably applies for VMware Server and Player too.
-```
+* The PCI Parallel Port card was installed after VMware Workstation. During the Workstation 
+* installation process, the installer looks to see whether the host has a parallel port, 
+* and if it does it installs a driver allowing VMs to access the port. If there’s no parallel port, 
+* the driver doesn’t get installed.
+* The problem here is that if you add a parallel port afterwards, there’s no virtualisation driver for it, 
+* resulting in the error above.
+* The solution is to uninstall and reinstall VMware Workstation after the hardware change. 
+* Reinstalling doesn’t affect any settings or VMs as long as you tell the uninstall process 
+* not to delete anything.
+* This probably applies for VMware Server and Player too.
 
 ## 并口板卡, AX99100, 亚信电子->软件 and 工程->驱动程序        
 https://www.asix.com.tw/cn/support/download  
